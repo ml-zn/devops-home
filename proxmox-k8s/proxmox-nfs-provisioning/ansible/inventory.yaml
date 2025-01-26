@@ -1,0 +1,7 @@
+proxmox-server:
+  hosts:
+    pve-1.fritz.box:
+home-server:
+  hosts:
+    omv.fritz.box:
+    pve-1.fritz.box:
